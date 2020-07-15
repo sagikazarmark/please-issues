@@ -1,0 +1,8 @@
+[parse]
+preloadbuilddefs = build_defs/go_rules.build_defs
+
+[go]
+importpath = github.com/sagikazarmark/please-issues/package-height
+
+[buildconfig]
+good = True

@@ -1,0 +1,5 @@
+[go]
+importpath = github.com/sagikazarmark/please-issues/package-height
+
+[buildconfig]
+good = False
