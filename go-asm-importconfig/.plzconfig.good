@@ -1,0 +1,2 @@
+[parse]
+preloadbuilddefs = build_defs/go_rules.build_defs
