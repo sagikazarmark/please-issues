@@ -1,0 +1,5 @@
+[please]
+version = 15.2.1-beta.1
+
+[go]
+importpath = github.com/sagikazarmark/please-issues/go-external-test
