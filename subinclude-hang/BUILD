@@ -1,0 +1,12 @@
+github_repo(
+    name = "pleasings2",
+    repo = "sagikazarmark/mypleasings",
+    revision = "c3b2f6a0efe5ba00796d822825ca96f345834b47",
+)
+
+subinclude("///pleasings2//go")
+
+gotestsum_test(
+    name = "gotest",
+    race = True,
+)
