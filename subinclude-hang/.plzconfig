@@ -1,5 +1,5 @@
 [please]
-version = 15.8.1
+version = 15.11.0
 
 [go]
 importpath = github.com/sagikazarmark/please-issues/subinclude-hang
